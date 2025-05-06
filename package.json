@@ -2,8 +2,12 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "evres",
 	"description": "does something",
+	"keywords": ["weird", "learning", "cool", "freecodecamp"],
+	"license": "trust me",
+	"version": "1.0.0",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"@freecodecamp/example": "1.2.13"
 	},
 	"main": "server.js",
 	"scripts": {
